@@ -1,0 +1,5 @@
+---Train---
+station: Strzelce Opolskie
+arrival_time: 10:15
+departure_time: 10:17
+platform: 1

@@ -1,0 +1,85 @@
+---Train---
+station:Strzelce Opolskie
+platform:1
+arrival_time:10:15
+departure_time:10:17
+---
+station:Blotnica Strzelecka
+platform:1
+arrival_time:10:25
+departure_time:10:26
+---
+station:Kotulin
+platform: 2
+arrival_time:10:30
+departure_time:10:31
+---
+station:Ligota Toszecka
+platform:1
+arrival_time:10:35
+departure_time:10:36
+---
+station:Toszek
+platform:1
+arrival_time:10:37
+departure_time:10:45
+---
+station:Gliwice
+platform:1
+arrival_time:11:12
+departure_time:last_station
+---Train---
+station:Gliwice
+platform:1
+arrival_time:10:15
+departure_time:10:17
+---
+station:Toszek
+platform:1
+arrival_time:10:25
+departure_time:10:26
+---
+station:Ligota Toszecka
+platform: 2
+arrival_time:10:30
+departure_time:10:31
+---
+station:Kotulin
+platform:1
+arrival_time:10:35
+departure_time:10:36
+---
+station:Blotnica Strzelecka
+platform:1
+arrival_time:10:37
+departure_time:10:45
+---
+station:Strzelce Opolskie
+platform:1
+arrival_time:10:50
+departure_time:last_station
+---Train---
+station:Gliwice
+platform:1
+arrival_time:11:15
+departure_time:11:17
+---
+station:Toszek
+platform:1
+arrival_time:11:25
+departure_time:11:26
+---
+station:Kotulin
+platform:1
+arrival_time:11:35
+departure_time:11:36
+---
+station:Blotnica Strzelecka
+platform:1
+arrival_time:11:37
+departure_time:11:46
+---
+station:Strzelce Opolskie
+platform:1
+arrival_time:11:52
+departure_time:last_station
